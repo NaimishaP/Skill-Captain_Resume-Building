@@ -1,0 +1,69 @@
+Skill Captain website automation | Jun ’23 – Sep ’23
+
+	Automated the entire Skill Captain website to ensure smooth user interactions and functionality using Cypress, JavaScript, and Node.js. 
+
+Technologies:
+
+	Automation Tool: Cypress
+      Programming Language: JavaScript
+      Runtime Environment: Node.js
+      Editor: Visual Studio Code (VS Code) 
+
+    • Developed and maintained automated test scripts using Cypress for end-to-end testing.
+    • Implemented and tested login functionalities, including form validation and error 	handling.
+    • Automated navigation and interaction with website elements (buttons, dropdowns, 	video controls). 
+    • Created and executed test cases for interactive elements to ensure functionality and 	responsiveness.
+    • Utilized Node.js for scripting and managing test execution flows.
+    • Collaborated with developers to identify and resolve bugs. 
+      
+Core Redone Project | Jun ’21 – Mar ’22
+
+Core Redone project using Agile methodology to enhance an iOS application integrated with the Salesforce platform. Responsibilities included requirement analysis, test design, and execution, ensuring consistency between the iOS app and Salesforce. Coordinated with cross-functional teams and managed defects through root cause analysis and prevention.
+
+Technologies: 
+
+              Operating Systems: Windows 10, iOS 13.6
+              Testing tools: JIRA, Test Rail, MS Office, Confluence, Workbench 54.0.0
+	Software: IOS App, Salesforce CRM and Chrome Web Browsers
+	Domain: Salesforce
+
+    • Understanding and analyzing the requirements and functionality of the applications
+    • Test Design HLD & LLD, Review
+    • Test Case execution in Salesforce application
+    • Co-ordinate with all third parties
+    • Defect management, defect prevention and RCA
+    • Attending Defect triage calls and daily SCRUM calls
+    • Communicating between cross teams on evolving requirements
+    • Coordinating with Business users, Analysts and Architects, developers on the client 	requirements and do the GAP analysis
+
+Telecom Italian| Nov ’19 – Jul ’20
+
+Telecommunications services provider in revenues and subscribers which provides telephony services, mobile services, and DSL data services. Handled various critical applications like UNICA RA, UNICA C, Dynamic Inventory, Network Ngneer and Navweb.The Objective of this project is to creating the order according to customer request, verifying the data in data base and Validating the end to end flow.
+Technologies:
+	Operating Systems: Windows 10
+              Testing tools: T-Portal, PVCS
+	Environment: Oracle SQL
+
+    • Understanding the requirements specified and Studied requirement documents, project 	functionality.
+    • Created test cases to perform Functional Testing
+    • Deployed Code in test environment for different type of installation file.
+    • Being a Transition project, we need to analysis the application from core and execute the 	scenario.
+    • Categorized bugs based on the severity and priority.
+
+T-Mobile | May ’16 – Nov ’19
+
+	Project deals with handling the back-end process of SAP. Further on delivery and shipment of 	the order up till generating billing and usage for the customer. 
+
+Technologies:	
+	Operating Systems: Windows 10, iOS 13.6
+              Testing tools: JIRA, Test Rail, MS Office, Confluence, Workbench 54.0.0
+	Software: IOS App, Salesforce CRM and Chrome Web Browsers
+	Domain: Salesforce
+
+    • Identified test scenarios, wrote test cases, and performed troubleshooting.
+    • Conducted Sanity, Functional Testing, Integration Testing, and Regression Testing.
+    • Utilized SAP SD and FI modules.
+    • Created test data, designed test cases, reviewed, executed, and managed defects.
+    • Proficient in JIRA/ HP-QC tools.
+    • Worked with Oracle Database, including database logic and SQL queries.
+    • Basic automation knowledge in TOSCA automation.
