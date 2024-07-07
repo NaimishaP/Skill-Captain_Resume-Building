@@ -3,11 +3,10 @@ Skill Captain website automation | Jun ’23 – Sep ’23
 	Automated the entire Skill Captain website to ensure smooth user interactions and functionality using Cypress, JavaScript, and Node.js. 
 
 Technologies:
-
 	Automation Tool: Cypress
-      Programming Language: JavaScript
-      Runtime Environment: Node.js
-      Editor: Visual Studio Code (VS Code) 
+        Programming Language: JavaScript
+        Runtime Environment: Node.js
+        Editor: Visual Studio Code (VS Code) 
 
     • Developed and maintained automated test scripts using Cypress for end-to-end testing.
     • Implemented and tested login functionalities, including form validation and error 	handling.
@@ -22,8 +21,8 @@ Core Redone project using Agile methodology to enhance an iOS application integr
 
 Technologies: 
 
-              Operating Systems: Windows 10, iOS 13.6
-              Testing tools: JIRA, Test Rail, MS Office, Confluence, Workbench 54.0.0
+        Operating Systems: Windows 10, iOS 13.6
+        Testing tools: JIRA, Test Rail, MS Office, Confluence, Workbench 54.0.0
 	Software: IOS App, Salesforce CRM and Chrome Web Browsers
 	Domain: Salesforce
 
@@ -41,13 +40,13 @@ Telecom Italian| Nov ’19 – Jul ’20
 Telecommunications services provider in revenues and subscribers which provides telephony services, mobile services, and DSL data services. Handled various critical applications like UNICA RA, UNICA C, Dynamic Inventory, Network Ngneer and Navweb.The Objective of this project is to creating the order according to customer request, verifying the data in data base and Validating the end to end flow.
 Technologies:
 	Operating Systems: Windows 10
-              Testing tools: T-Portal, PVCS
+        Testing tools: T-Portal, PVCS
 	Environment: Oracle SQL
 
-    • Understanding the requirements specified and Studied requirement documents, project 	functionality.
+    • Understanding the requirements specified and Studied requirement documents, project functionality.
     • Created test cases to perform Functional Testing
     • Deployed Code in test environment for different type of installation file.
-    • Being a Transition project, we need to analysis the application from core and execute the 	scenario.
+    • Being a Transition project, we need to analysis the application from core and execute the scenario.
     • Categorized bugs based on the severity and priority.
 
 T-Mobile | May ’16 – Nov ’19
@@ -56,7 +55,7 @@ T-Mobile | May ’16 – Nov ’19
 
 Technologies:	
 	Operating Systems: Windows 10, iOS 13.6
-              Testing tools: JIRA, Test Rail, MS Office, Confluence, Workbench 54.0.0
+        Testing tools: JIRA, Test Rail, MS Office, Confluence, Workbench 54.0.0
 	Software: IOS App, Salesforce CRM and Chrome Web Browsers
 	Domain: Salesforce
 
